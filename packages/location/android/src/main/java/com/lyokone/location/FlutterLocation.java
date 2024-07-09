@@ -37,6 +37,7 @@ import io.flutter.plugin.common.PluginRegistry;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.HashMap;
+import com.lyokone.*;
 
 public class FlutterLocation
         implements PluginRegistry.RequestPermissionsResultListener, PluginRegistry.ActivityResultListener {

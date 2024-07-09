@@ -5,6 +5,7 @@ import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.EventChannel;
 import io.flutter.plugin.common.EventChannel.StreamHandler;
 import io.flutter.plugin.common.EventChannel.EventSink;
+import com.lyokone.*;
 
 class StreamHandlerImpl implements StreamHandler {
     private static final String TAG = "StreamHandlerImpl";
