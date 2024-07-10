@@ -26,7 +26,7 @@ dependencies:
   flutter:
     sdk: flutter
   location_platform_interface:
-    path: location_platform_interface
+    path: ../location_platform_interface
 #  location_web:
 #    path: location_web
 
